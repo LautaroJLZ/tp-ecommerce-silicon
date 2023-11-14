@@ -94,7 +94,7 @@ const Footer = () => {
                 type="email"
                 placeholder="Ingresa tu email"
               />
-              <button className=" border-white text-white w-fit  border-2  rounded-lg px-2">Suscribite</button>
+              <button className=" border-white text-white w-fit  border-2  rounded-lg px-2">Suscribite si o si</button>
             </div>
           </form>
         </div>
