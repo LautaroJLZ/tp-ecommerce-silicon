@@ -18,6 +18,7 @@ function App() {
       <SeccionNavbar/>
       <Espaciador/>
       <SeccionHome/>
+      <Espaciador/>
       <MueblesExlusivos/>
       <CaracteristicasEspeciales/>
       <Ofertas/>
